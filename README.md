@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # box
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# qcwbox
+pattern of qsc box
+>>>>>>> dev
